@@ -8,6 +8,3 @@ Welcome to the Python Basics repository. This repository contains fundamental Py
 - Python 3 installed on your machine.
 
 
-## License
-
-This project is licensed under the MIT License.
